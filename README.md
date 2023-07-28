@@ -104,18 +104,15 @@ Visit `https://wildlife-tracker-live.herokuapp.com`
 >
 >[Duck image](https://unsplash.com/collections/444531/woodland-animals?photo=yQZgEh4u-Dw)
 
-## Maintainer
-[Grace Stuart](href="https://github.com/gstuart")
+
 
 
 ## Contribute
-* Questions may be submitted to gstuart.github@gmail.com.
-* Pull requests accepted.
-* NOTE: If editing the Readme, please conform to the [standard-readme specification](https://github.com/RichardLitt/standard-readme/blob/master/spec.md).
+.
 
 
 ## License
-**_[GNU GPL 3.0 License](/LICENSE.md)_** :copyright: **2017 Grace Stuart**
+**_[GNU GPL 3.0 License](/LICENSE.md)_** :copyright: **2023 Alex Kinyanjui**
 
 
 ***
